@@ -23,7 +23,7 @@ Segue a imagem com a execução dele no console
 
 Abrindo a imagem obtida através da gravação do vídeo pelo aplicativo [FindByColor](https://play.google.com/store/apps/details?id=cavalcanti.samuel.findbycolor&hl=pt_BR).
 
-<b>OBS.:</b> , para abrir a imagem é preciso ter instalado o "Scilab Computer Vision Module" para fazer o uso da biblioteca "scicv_Init", a instalação pode ser feita utilizando esse [link](https://atoms.scilab.org/toolboxes/scicv/0.3)
+<b>OBS.:</b> Para abrir a imagem é preciso ter instalado o "Scilab Computer Vision Module" para fazer o uso da biblioteca "scicv_Init", a instalação pode ser feita utilizando esse [link](https://atoms.scilab.org/toolboxes/scicv/0.3)
 
 Em seguida executar o arquivo
 ```bash
