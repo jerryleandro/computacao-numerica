@@ -61,6 +61,6 @@ Segue a imagem com a execução no console
 
 ### Algumas considerações
 
-No código os arquivos estão com o endereço relativo do diretório, ou seja, para a execução na sua máquina é preciso informar o caminho corretamente dentro de cada arquivo. 
+No código os arquivos estão com o endereço absoluto do diretório, ou seja, para a execução na sua máquina é preciso informar o caminho corretamente dentro de cada arquivo. 
 
 
