@@ -1,7 +1,7 @@
 # Pendulo de Taylor
 Repositório para o código da primeira prática! 
 
-A descrição da atividade prática pode ser consultado pelo PDF através [deste link](https://github.com/jilcimar/computacao-numerica/blob/master/taylor-pendulo/files/pratica.pdf).
+A descrição da atividade prática pode ser consultada pelo PDF através [deste link](https://github.com/jilcimar/computacao-numerica/blob/master/taylor-pendulo/files/pratica.pdf).
 
 ## Executando os códigos
 
