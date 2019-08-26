@@ -2,7 +2,7 @@
 M = csvRead('/home/jilcimar/PESSOAL/computacao-numerica/taylor-pendulo/files/sample.csv')
 
 x0 = 448
-y0 = 400
+y0 = 77
 
 x = M(:,1)
 y = M(:,2)
